@@ -1,0 +1,4 @@
+[30-Oct-2024 02:12:08 UTC] PHP Warning:  Attempt to read property "ID" on null in /Users/jeremy/Local Sites/uab-wp/app/public/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php on line 167
+[30-Oct-2024 02:12:08 UTC] PHP Warning:  Attempt to read property "ID" on null in /Users/jeremy/Local Sites/uab-wp/app/public/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php on line 167
+[30-Oct-2024 02:13:04 UTC] PHP Warning:  Attempt to read property "ID" on null in /Users/jeremy/Local Sites/uab-wp/app/public/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php on line 167
+[30-Oct-2024 02:13:04 UTC] PHP Warning:  Attempt to read property "ID" on null in /Users/jeremy/Local Sites/uab-wp/app/public/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php on line 167
